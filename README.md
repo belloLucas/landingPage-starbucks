@@ -1,8 +1,8 @@
 # Landing Page Starbucks
 
-Esse é um projeto que peguei de um canal no youtube.
+Esse é um projeto que peguei como inspiração em um canal no youtube.
 
-Nele foi utilizado HTML, CSS e Javascript.
+Nele, foram utilizadas as seguintes tecnologias: HTML, CSS e Javascript.
 
 Atualmente não está responsivo.
 
